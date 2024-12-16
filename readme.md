@@ -1,6 +1,9 @@
 # Apple TV IP Remote Control (pyatv)
 
 ## Updates
+Main Repo now has changes need. Do not use. See [13mralex/c4-pyatv-remote](https://github.com/13mralex/c4-pyatv-remote)
+
+
 Latest Control4 Driver Menu button is mapped to Apple TV Home button, and supports home via single press or home hold (Dashboard) by holding. This is the only change over @c4-pyatv-remote [13mralex/c4-pyatv-remote](https://github.com/13mralex/c4-pyatv-remote)
 
 
